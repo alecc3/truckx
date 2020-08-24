@@ -4,7 +4,6 @@ import './App.css';
 import Home from './components/Home';
 import Add from './components/Add';
 import Edit from './components/Edit';
-import Delete from './components/Delete';
 import Button from 'react-bootstrap/Button';
 import {UserContext} from './context';
 import { BrowserRouter, Route, Switch, Link } from 'react-router-dom';
