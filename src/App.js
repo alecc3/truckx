@@ -36,7 +36,6 @@ export default class App extends Component{
         </Route>
         <Route path='/add' component={Add}></Route>
         <Route path='/edit' component={Edit}></Route>
-        <Route path='/delete' component={Delete}></Route>
         </UserContext.Provider>
       </Switch>
     </div>
